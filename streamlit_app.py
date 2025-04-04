@@ -9,7 +9,7 @@ from datetime import datetime
 import json
 
 import tensorflow as tf
-from cryptovision.models import CryptoVisionModels
+from models import CryptoVisionModels
 
 # Application Settings
 settings = {
